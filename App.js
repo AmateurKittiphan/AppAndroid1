@@ -11,6 +11,7 @@ export default class App extends Component {
       email: "",
       password: "",
       name: "",
+      tel: "",
     };
   }
 
