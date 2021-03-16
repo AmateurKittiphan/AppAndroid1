@@ -10,6 +10,7 @@ export default class App extends Component {
     this.state = {
       email: "",
       password: "",
+      name: "",
     };
   }
 
